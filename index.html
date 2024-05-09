@@ -1,1 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="csrf-token" content="<?php echo password_hash('_hx-6gt1vNH4XHQhKT3G9WzBYzT93CxrKrkwQbWkzgE=', PASSWORD_BCRYPT); ?>">
+    <title>Dukedom LLC</title>
+    <link rel="icon" type="image/png" href="logo.png">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #333;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: #222;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        .header button,
+        .game-box button {
+            padding: 10px 20px;
+            margin: 0 5px;
+            background-color: #444;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .header button:hover,
+        .game-box button:hover {
+            background-color: #555;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .container {
+            padding: 20px;
+        }
+
+        .header img {
+            height: 100px;
+            width: auto;
+            margin-right: 10px;
+        }
+
+        .header h1 {
+            margin-left: 10px;
+        }
+
+        @media (max-width: 600px) {
+            .header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+        }
+
+        .description {
+            margin-bottom: 10px;
+        }
+
+        .box {
+            background-color: #222;
+            margin-bottom: 20px;
+            border: none;
+            padding: 20px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <img src="logo.png" alt="Logo" />
+        <h1>Dukedom LLC</h1>
+        <div>
+            <input type="text" id="search-input" placeholder="Search pages..." />
+            <button onclick="searchPages()">Search</button>
+            <button onclick="openAboutUs()">About Us</button>
+            <button onclick="openGames()">Our Games</button>
+        </div>
+    </div>
+
+    <div id="error-message" class="hidden">Page not found. Returning to home...</div>
+
+    <div class="container">
+        <div id="about-us">
+            <h2>About Us</h2>
+            <p class="description">Dukedom LLC</p>
+        </div>
+
+        <div id="games" class="hidden">
+            <h2>Our Games</h2>
+            <div class="box">
+                <h3>UltraBeing</h3>
+                <p class="description">UltraBeing is a mobile life simulator in which ________</p>
+                <button onclick="window.location.href='https://www.blank.com'">Download UltraBeing</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const pages 
+            "about": document.getElementById("about-us"),
+            "games": document.getElementById("games"),
+        };
+
+        function searchPages() {
+            const searchTerm = document.getElementById("search-input").value.toLowerCase();
+            if (pages[searchTerm]) {
+                showPage(searchTerm);
+            } else {
+                showError();
+            }
+        }
+
+        function showError() {
+            const errorMessage = document.getElementById("error-message");
+            errorMessage.classList.remove("hidden");
+            setTimeout(() => {
+                errorMessage.classList.add("hidden");
+                showPage("about");
+            }, 5000);
+        }
+
+        function showPage(pageId) {
+            Object.values(pages).forEach(page => page.classList.add("hidden"));
+            pages[pageId].classList.remove("hidden");
+
+            // Additional logic for the portal page
+            if (pageId === "portal") {
+                // Reset the authentication form on each visit to the portal
+                resetAuthForm();
+            }
+        }
+
+        function openAboutUs() {
+            showPage("about");
+        }
+
+        function openGames() {
+            showPage("games");
+        }
+
+    <!-- Include marked library for markdown parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</body>
+
+</html>
 
