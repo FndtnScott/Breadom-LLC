@@ -4,14 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="csrf-token" content="<?php echo password_hash('_hx-6gt1vNH4XHQhKT3G9WzBYzT93CxrKrkwQbWkzgE=', PASSWORD_BCRYPT); ?>">
-    <title>Dukedom LLC</title>
+    <title>Breaddom LLC</title>
     <link rel="icon" type="image/png" href="logo.png">
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #700;
-            color: #ffd;
+            background-color: #fff; /* changed background to white */
+            color: #000; /* changed text color to black */
             margin: 0;
             padding: 0;
         }
@@ -20,7 +19,7 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            background: #222;
+            background: crimson; /* changed header background to crimson red */
             padding: 20px;
             margin-bottom: 20px;
         }
@@ -97,7 +96,7 @@
     <div class="container">
         <div id="about-us">
             <h2>About Us</h2>
-            <p class="description">Dukedom LLC</p>
+            <p class="description">Breaddom LLC is a company owned by ______</p>
         </div>
 
         <div id="games" class="hidden">
@@ -138,11 +137,6 @@
             Object.values(pages).forEach(page => page.classList.add("hidden"));
             pages[pageId].classList.remove("hidden");
 
-            // Additional logic for the portal page
-            if (pageId === "portal") {
-                // Reset the authentication form on each visit to the portal
-                resetAuthForm();
-            }
         }
 
         function openAboutUs() {
@@ -158,4 +152,3 @@
 </body>
 
 </html>
-
