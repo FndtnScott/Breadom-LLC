@@ -121,7 +121,7 @@
     <script>
         const pages = {
             "about": document.getElementById("about-us"),
-            "games": document.getElementById("games"),
+            "games": document.getElementById("games")
         };
 
         function searchPages() {
@@ -146,7 +146,12 @@
             Object.values(pages).forEach(page => page.classList.add("hidden"));
             pages[pageId].classList.remove("hidden");
 
-        }
+            // Additional logic for the portal page
+            if (pageId === "portal") {
+                // Reset the authentication form on each visit to the portal
+                resetAuthForm();
+            }
+                }
 
         function openAboutUs() {
             showPage("about");
