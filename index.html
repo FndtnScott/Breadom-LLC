@@ -1,162 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Breadom LLC</title>
-    <link rel="icon" type="image/png" href="logo.png">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #fff;
-            color: #000;
-            margin: 0;
-            padding: 0;
-        }
-
-        .header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            background: crimson;
-            padding: 20px;
-            margin-bottom: 20px;
-        }
-
-        .header button,
-        .game-box button {
-            padding: 10px 20px;
-            margin: 0 5px;
-            background-color: #444;
-            color: #fff;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-
-        .header button:hover,
-        .game-box button:hover {
-            background-color: #555;
-        }
-
-        .hidden {
-            display: none;
-        }
-
-        .container {
-            padding: 20px;
-        }
-
-        .header img {
-            height: 100px;
-            width: auto;
-            margin-right: 10px;
-        }
-
-        .header h1 {
-            margin-left: 10px;
-        }
-
-        @media (max-width: 600px) {
-            .header {
-                flex-direction: column;
-                align-items: flex-start;
-            }
-        }
-
-        .description {
-            margin-bottom: 10px;
-        }
-
-        .box {
-            background-color: #222;
-            margin-bottom: 20px;
-            border: none;
-            padding: 20px;
-            border-radius: 5px;
-        }
-    </style>
+    <link rel="stylesheet" href="common.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
 </head>
-
 <body>
-    <div class="header">
-        <img src="logo.png" alt="Logo" />
-        <h1>Breadom LLC</h1>
-        <div>
-            <input type="text" id="search-input" placeholder="Search pages..." />
-            <button onclick="searchPages()">Search</button>
-            <button onclick="openAboutUs()">About Us</button>
-            <button onclick="openGames()">Our Games</button>
-        </div>
+    <header>
+        <img src="logo.png" alt="Breadom LLC" class="logo">
+        <h1>Foundation Scott</h1>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="games.html">Games</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <div class="container" id="home">
+        <h2>About Breadom LLC</h2>
+        <p>Breadom LLC is a privately owned company founded by Duke, Tyrell Scott, Lucy Wheat, Win, Nora Hatija, Yohanna Finch, Maria, Nick, and Frank Rowe. The company makes mobile games, and are known for their mobile game UltraBeing. UltraBeing is a life simulator where the player can start a second life and be whoever they want, whenever they want.</p>
     </div>
-
-    <div id="error-message" class="hidden">Page not found. Returning to home...</div>
-
-    <div class="container">
-        <div id="about-us">
-            <h2>About Us</h2>
-            <p class="description">Breadom LLC is a privately owned company founded by Duke, Tyrell Scott, Lucy Wheat, Win, Nora Hatija, Yohanna Finch, Maria, Nick, and Frank Rowe. The company makes mobile games, and are known for their mobile game UltraBeing. UltraBeing is a life simulator where the player can start a second life and be whoever they want, whenever they want.</p>
-        </div>
-        <div id="games" class="hidden">
-            <h2>Our Games</h2>
-            <div class="box">
-                <h3>UltraBeing - 1.0.0</h3>
-                <p class="description">Notice: UltraBeing only supports mobile for now. Join the discord: <a href="https://discord.com/invite/q2xrV29wFE">https://discord.com/invite/6rBXpBsa6p</a>. Scott RPG - Version: 1.5.2 (Latest):<br>
-                    <ol>
-                        <li>Game Release</li>
-                    </ol>
-                </p>
-                <button onclick="window.location.href='https://blank.com/'">Download UltraBeing(NOT ACTIVE)</button>
-            </div>
-        </div>
-    </div>
-
-    <script>
-        const pages = {
-            "about": document.getElementById("about-us"),
-            "games": document.getElementById("games")
-        };
-
-        function searchPages() {
-            const searchTerm = document.getElementById("search-input").value.toLowerCase();
-            if (pages[searchTerm]) {
-                showPage(searchTerm);
-            } else {
-                showError();
-            }
-        }
-
-        function showError() {
-            const errorMessage = document.getElementById("error-message");
-            errorMessage.classList.remove("hidden");
-            setTimeout(() => {
-                errorMessage.classList.add("hidden");
-                showPage("about");
-            }, 5000);
-        }
-
-        function showPage(pageId) {
-            Object.values(pages).forEach(page => page.classList.add("hidden"));
-            pages[pageId].classList.remove("hidden");
-
-            // Additional logic for the portal page
-            if (pageId === "portal") {
-                // Reset the authentication form on each visit to the portal
-                resetAuthForm();
-            }
-                }
-
-        function openAboutUs() {
-            showPage("about");
-        }
-
-        function openGames() {
-            showPage("games");
-        }
-
-    <!-- Include marked library for markdown parsing -->
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <footer>
+        &copy; 2024 Breadom LLC. All rights reserved.
+    </footer>
 </body>
-
 </html>
