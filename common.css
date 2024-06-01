@@ -1,12 +1,12 @@
 body {
-    background-color: #1c1c1c;
-    color: #f0f0f0;
+    background-color: #ffffff;
+    color: #ff0000;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 header {
-    background-color: #333;
+    background-color: #ff0000;
     padding: 20px;
     text-align: center;
 }
@@ -17,7 +17,7 @@ header h1 {
 nav {
     display: flex;
     justify-content: center;
-    background-color: #444;
+    background-color: #ff4d4d;
 }
 nav a {
     padding: 15px 25px;
@@ -26,7 +26,7 @@ nav a {
     font-weight: bold;
 }
 nav a:hover {
-    background-color: #555;
+    background-color: #ff6666;
 }
 .container {
     padding: 20px;
@@ -35,25 +35,25 @@ nav a:hover {
     margin-bottom: 20px;
 }
 .games .game h2 {
-    color: #f0f0f0;
+    color: #ff0000;
 }
 .games .game p {
-    color: #cccccc;
+    color: #ff4d4d;
 }
 .games .game a {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #666;
+    background-color: #ff0000;
     color: #ffffff;
     text-decoration: none;
     border-radius: 5px;
     margin-top: 10px;
 }
 .games .game a:hover {
-    background-color: #777;
+    background-color: #ff6666;
 }
 footer {
-    background-color: #333;
+    background-color: #ff0000;
     color: #ffffff;
     text-align: center;
     padding: 10px;
