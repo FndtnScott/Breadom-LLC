@@ -14,7 +14,11 @@ This repository, including all code, files, and documentation contained herein, 
 
 ### 6. **Waiver of Rights**: Users accessing or interacting with this repository hereby waive any rights to contest this Agreement in a court of law. Breadom reserves the right to seek monetary or other forms of compensation for any violation of this Agreement except from Owner. Owner, however, can seek compensation from Breadom.
 
-### 7. **Modification**: This Agreement can be modified at any time by Owner with or without notification, any and all changes without explicit permission from Owner will be subject to lawsuit. It is recommended to continuously read this Agreement to be in note of such changes.
+### 7. **Modification**: This Agreement can be modified at any time by Owner with or without notification, any and all changes without explicit permission from Owner will be subject to lawsuit. It is recommended to continuously read this Agreement to be in note of such themselves
+
+### 8. **Intrest**: Any and all important decisions made by the Board must be shown directly to shareholders, investors, Breadom LLC, and Owner. Shareholders and Investors have permission to override decisions by the Board if 75% of them ("Majority Owners") are in favor.
+
+### 9. **Intrest**: The Board, and Owner have permission to hire, fire, and promote staff. Majority Owners also have permission to do so at will, this is in case the Board or Owner is not available for an extended amount of time.
 
 By accessing this repository henceforth, you agree to be bound by these terms and conditions. If you do not agree to these terms, you are not authorized to access, use, or clone this repository in any way.
 
