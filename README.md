@@ -1,6 +1,9 @@
 # **Breadom LLC License Agreement**
 
-The GitHub repositories designated with this License Agreement ("Repos"), including all code, files, and documentation contained herein, are the property of Breadom LLC ("Breadom") and the owner of this GitHub repository ("Owner"). By accessing, using, or contributing to any Repo or the Company itself in any way, you agree to the terms and conditions set forth in this License Agreement ("Agreement").
+1. UltraBeing - https://github.com/RelloJXScott/UltraBeing
+2. Breadom LLC - https://github.com/RelloJXScott/Breadom-LLC
+
+The GitHub repositories listed above and any repositoroes designated with this License Agreement ("Repos"), including all code, files, and documentation contained therein, are the property of Breadom LLC ("Breadom") and the owner of the GitHub repositories listed above ("Owner"). By accessing, using, or contributing to any Repo or the Company itself in any way, you agree to the terms and conditions set forth in this License Agreement ("Agreement").
 
 # The below listed items are known as Sections and are known as Section '#' as listed e.g. Section 1: 
 
