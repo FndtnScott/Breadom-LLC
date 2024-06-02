@@ -1,6 +1,6 @@
 # **Breadom LLC License Agreement**
 
-The GitHub repositories designated with this License Agreement ("Repos"), including all code, files, and documentation contained herein, are the property of Breadom LLC ("Breadom") and the owner of official Breadom GitHub repositories ("Owner"). By accessing, using, or contributing to any Repo or the Company itself in any way, you agree to the terms and conditions set forth in this License Agreement ("Agreement").
+The GitHub repositories designated with this License Agreement ("Repos"), including all code, files, and documentation contained herein, are the property of Breadom LLC ("Breadom") and the owner of this GitHub repository ("Owner"). By accessing, using, or contributing to any Repo or the Company itself in any way, you agree to the terms and conditions set forth in this License Agreement ("Agreement").
 
 # The below listed items are known as Sections and are known as Section '#' as listed e.g. Section 1: 
 
@@ -18,7 +18,7 @@ The GitHub repositories designated with this License Agreement ("Repos"), includ
 
 ### 7. **Major Power**: The CEO/Chairman of Breadom ("Major Power") retains the same level of permission as Senior Staff and Majority Owners combined.
 
-### 8. **Modification**: This Agreement can be modified at any time by the Owner or Major Power with or without notification, any and all changes without explicit permission from the Owner or Major Power will be subject to lawsuit. It is recommended to continuously read this Agreement to be in note of such themselves. Furthermore, the Board can modify this Agreement if at least 55% are in favor, however they need proper approval from the Owner or Major Power and they must notify Majority Owners, Shareholders, Investors, the Major Power, the Owner, the Board, and any & all Employees ("Members") of such changes. However, Majority Owners retain the right to modify this Agreement without approval from the Owner or Major Power, though they still have to properly notify Members. The Board & Majority Owners can modify and and all Sections of the Agreement except for Sections 1-10.
+### 8. **Modification**: This Agreement can be modified at any time by the Owner or Major Power with or without notification, any and all changes without explicit permission from the Owner or Major Power will be subject to lawsuit. It is recommended to continuously read this Agreement to be in note of such themselves. Furthermore, the Board can modify this Agreement if at least 55% are in favor, however they need proper approval from the Owner or Major Power and they must notify Majority Owners, Shareholders, Investors, the Major Power, the Owner, the Board, and any & all Employees ("Members") of such changes. However, Majority Owners retain the right to modify this Agreement without approval from the Owner or Major Power, though they still have to properly notify Members. The Board, Majority Owners, and the Major Power can modify and and all Sections of the Agreement except for Sections 1-10.
 
 ### 9. **Intrest**: Any and all important decisions made by the Board must be shown directly to shareholders, investors, Breadom LLC, the Owner, and the Major Power. Shareholders and Investors have permission to override decisions by the Board if 75% of them ("Majority Owners") are in favor.
 
