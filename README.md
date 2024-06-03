@@ -34,7 +34,7 @@ The GitHub repositories listed above and any repositoroes designated with this L
 ### 13. **Investing**: People can invest in Breadom, their money should be sent to Major Power or the Owner and arwaxe to be used for the Breadom and nothing else, any misuse of the money by the Owner, Board, Major Power, Employees, Senior Employees, or Majority Owners will be subject to a lawsuit of 3x the amount misused upon all individuals involved.
 
 ### 14. **Payment**: 
-Employees, Major Power, Majority Owners, Senior Employees, etc. agree not to be paid for this job. This is unless the company has money to do so(above $10,000). Depending on the level of the employee the more they will be paid. The Owner, Board, Majority Owners, and Major Power can modify salary of employees at anytime with notification of all employees.
+Employees, Major Power, Majority Owners, Senior Employees, etc. agree not to be paid for this job. This is unless the company has money to do so(above $10,000) or announces directly that they will pay employees. Depending on the level of the employee the more they will be paid. The Owner, Board, Majority Owners, and Major Power can modify salary of employees at anytime with notification of all employees.
 
 ### 15. **Employee Levels**: Employee levels are as follows and can be modified by the Owner, the Major Power, or Majority Owners all Employee levels but 1-4 can be changed. The levels are listed from highest to lowest power staring at 1 as the highest level: 
 1. Owner
