@@ -3,7 +3,7 @@
 1. UltraBeing - https://github.com/RelloJXScott/UltraBeing
 2. Breadom LLC - https://github.com/RelloJXScott/Breadom-LLC
 
-The GitHub repositories listed above and any repositoroes designated with this License Agreement ("Repos"), including all code, files, and documentation contained therein, are the property of Breadom LLC ("Breadom") and the owner of the GitHub repositories listed above ("Owner"). By accessing, using, or contributing to any Repo or the Company itself in any way, you agree to the terms and conditions set forth in this License Agreement ("Agreement").
+The GitHub repositories listed above and any repositoroes designated with this License Agreement ("Repo's"), including all code, files, and documentation contained therein, are the property of Breadom LLC ("Breadom") and the owner of the GitHub repositories listed above ("Owner"). By accessing, using, or contributing to any Repo or the Company itself in any way, you agree to the terms and conditions set forth in this License Agreement ("Agreement").
 
 # The below listed items are known as Sections and are known as Section '#' as listed e.g. Section 1: 
 
@@ -25,7 +25,7 @@ The GitHub repositories listed above and any repositoroes designated with this L
 
 ### 9. **Intrest**: Any and all important decisions made by the Board must be shown directly to shareholders, investors, Breadom LLC, the Owner, and the Major Power. Shareholders and Investors have permission to override decisions by the Board if 75% of them ("Majority Owners") are in favor.
 
-### 10. **Hiring**: The Board, the Major Power, and the Owner have permission to hire, fire, and promote staff. Majority Owners also have permission to do so at will, this is in case all the Board, Owner, and Major Power is not available for an extended amount of time.
+### 10. **Staff Moderation**: The Board, the Major Power, and the Owner ("Main Group") have permission to hire, fire, and promote staff. Majority Owners also have permission to do so at will, this is in case all the Board, Owner, and Major Power is not available for an extended amount of time. Anyone & Everyone no matter the rank can't fire hire or promote people above their Employee Level.
 
 ### 11. **Employee Development**: Employees may modify all resources in the repository except the Agreement. All changes must be permitted by an moderator, or admin ("Senior Employee"), Majority Owners, Major Power, or the Owner. Employee's are suggested to keep photographic evidence of such permission. Any photographs found to be fake are subject to a lawsuit by Breadom, the Major Power, or the Owner.
 
