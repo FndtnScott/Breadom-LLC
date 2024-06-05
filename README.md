@@ -7,27 +7,27 @@ The GitHub repositories listed above and any repositories designated with this L
 
 # The below-listed items are known as Sections and are referred to as Section '#' as listed, e.g., Section 1: 
 
-### 1. **Ownership**: All code and materials in the Repos, and anything created under employment of Breadom, are owned by Breadom & Owner unless otherwise stated. 
+### 1. **Ownership**: All code and materials in the Repo's, and anything created under employment of Breadom, are owned by Breadom & Owner unless otherwise stated. 
 
-### 2. **Restrictions**: Misuse, selling, distribution, or modification of any code or materials in these Repos without explicit permission from the Board of Directors of Breadom LLC ("Board") or Owner is strictly prohibited. Owner has more weight than the Board and can override their permission of edits.
+### 2. **Restrictions**: Misuse, selling, distribution, or modification of any code or materials in these Repo's without explicit permission from the Board of Directors of Breadom LLC ("Board") or Owner is strictly prohibited. Owner has more weight than the Board and can override their permission of edits.
 
 ### 3. **Agreement**: Misuse or modification of this Agreement without explicit permission from the Owner is strictly prohibited and will be subject to a lawsuit.
 
 ### 4. **Jurisdiction**: Any infringement of this Agreement is subject to legal action under the laws of the United States. Foreign entities and individuals accessing or interacting with this repository are subject to US laws.
 
-### 5. **Acknowledgment**: By accessing or using Repos, or the official Discord server, you acknowledge and agree that reading, accessing, or using any portion of the code or materials in Repos or any materials created by employees of Breadom constitutes acceptance of this Agreement.
+### 5. **Acknowledgment**: By accessing or using Repo's, or the official Discord server, you acknowledge and agree that reading, accessing, or using any portion of the code or materials in Repo's or any materials created by employees of Breadom constitutes acceptance of this Agreement.
 
-### 6. **Waiver of Rights**: Users accessing or interacting with Repos or any materials created by employees of Breadom hereby waive any rights to contest this Agreement in a court of law. Breadom reserves the right to seek monetary or other forms of compensation for any violation of this Agreement except from the Owner. However, the Owner can seek compensation from Breadom.
+### 6. **Waiver of Rights**: Users accessing or interacting with Repo's or any materials created by employees of Breadom hereby waive any rights to contest this Agreement in a court of law. Breadom reserves the right to seek monetary or other forms of compensation for any violation of this Agreement except from the Owner. However, the Owner can seek compensation from Breadom or it's employees.
 
-### 7. **Major Power**: The CEO/Chairman of Breadom ("Major Power") retains the same level of permission as Senior Staff and Majority Owners combined.
+### 7. **Interest**: Any and all important decisions made by the Board must be shown directly to shareholders, investors, Breadom LLC, the Owner, and the CEO/Chairman of Breadom ("Major Power"). Shareholders and Investors have permission to override decisions by the Board if 75% of them ("Majority Owners") are in favor.
 
-### 8. **Modification**: This Agreement can be modified at any time by the Owner or Major Power with or without notification. Any and all changes without explicit permission from the Owner or Major Power will be subject to a lawsuit. It is recommended to continuously read this Agreement to stay informed. Furthermore, the Board can modify this Agreement if at least 55% are in favor; however, they need proper approval from the Owner or Major Power and must notify Majority Owners, Shareholders, Investors, the Major Power, the Owner, the Board, and any & all Employees ("Members") of such changes. However, Majority Owners retain the right to modify this Agreement without approval from the Owner or Major Power, though they still have to properly notify Members. The Board, Majority Owners, and the Major Power can modify any and all Sections of the Agreement except for Sections 1-10.
+### 8. **Major Power**: The Major Power retains the same level of permission as Senior Staff and Majority Owners combined.
 
-### 9. **Interest**: Any and all important decisions made by the Board must be shown directly to shareholders, investors, Breadom LLC, the Owner, and the Major Power. Shareholders and Investors have permission to override decisions by the Board if 75% of them ("Majority Owners") are in favor.
+### 9. **Employee Development**: Employees may modify all resources in the repository except the Agreement. All changes must be permitted by a moderator or admin ("Senior Employee"), Majority Owners, Major Power, or the Owner. Employees are suggested to keep photographic evidence of such permission. Any photographs found to be fake are subject to a lawsuit by Breadom, the Major Power, or the Owner.
 
-### 10. **Staff Moderation**: The Board, the Major Power, and the Owner ("Main Group") have permission to hire, fire, and promote staff. Majority Owners also have permission to do so at will in case the Board, Owner, and Major Power are not available for an extended amount of time. Anyone, no matter the rank, cannot fire, hire, or promote people above their Employee Level.
+### 10. **Modification**: This Agreement can be modified at any time by the Owner or Major Power with or without notification. Any and all changes without explicit permission from the Owner or Major Power will be subject to a lawsuit. It is recommended to continuously read this Agreement to stay informed. Furthermore, the Board can modify this Agreement if at least 55% are in favor; however, they need proper approval from the Owner or Major Power and must notify Majority Owners, Shareholders, Investors, the Major Power, the Owner, the Board, and any & all Employees ("Members") of such changes. However, Majority Owners retain the right to modify this Agreement without approval from the Owner or Major Power, though they still have to properly notify Members. The Board, Majority Owners, and the Major Power can modify any and all Sections of the Agreement except for Sections 1-11.
 
-### 11. **Employee Development**: Employees may modify all resources in the repository except the Agreement. All changes must be permitted by a moderator or admin ("Senior Employee"), Majority Owners, Major Power, or the Owner. Employees are suggested to keep photographic evidence of such permission. Any photographs found to be fake are subject to a lawsuit by Breadom, the Major Power, or the Owner.
+### 11. **Staff Moderation**: The Board, the Major Power, and the Owner ("Main Group") have permission to hire, fire, and promote staff. Majority Owners also have permission to do so at will in case the Board, Owner, and Major Power are not available for an extended amount of time. Anyone, no matter the rank, cannot fire, hire, or promote people above their Employee Level.
 
 ### 12. **Partnership**: Senior Employees, Major Power, and the Owner retain the right to approve partnerships with other companies, Discord servers, etc.
 
@@ -35,13 +35,14 @@ The GitHub repositories listed above and any repositories designated with this L
 
 ### 14. **Payment**: Employees, Major Power, Majority Owners, Senior Employees, etc. agree not to be paid for this job unless the company has money to do so (above $10,000) or announces directly that they will pay employees. Depending on the level of the employee, the more they will be paid. The Owner, Board, Majority Owners, and Major Power can modify the salary of employees at any time with notification of all employees.
 
-### 15. **Employee Levels**: Employee levels are as follows and can be modified by the Owner, the Major Power, or Majority Owners. All employee levels except 1-4 can be changed. The levels are listed from highest to lowest power, starting at 1 as the highest level: 
+### 15. **Employee Levels**: Employee levels are as follows and can be modified by the Owner, the Major Power, or Majority Owners. All employee levels except 1-5ppp can be changed. The levels are listed from highest to lowest power, starting at 1 as the highest level: 
 1. Owner
-2. Major Power
-3. Majority Owners
-4. Board
-5. Senior Employees
-6. Employees
+2. Breadom
+3. Major Power
+4. Majority Owners
+5. Board
+6. Senior Employees
+7. Employees
 
 ### **16. Contingency Plans**:
 #### a. Emergency Leadership
@@ -73,4 +74,4 @@ By accessing the Repos or the official Discord server henceforth, you agree to b
 By accessing the Repos or the official Discord server henceforth, you agree to be bound by these terms and conditions. If you do not agree to these terms, you are not authorized to access, use, or clone the Repos and/or materials created by employees of Breadom in any way.
 
 **Breadom LLC,**  
-June 2, 2024
+June 5, 2024
