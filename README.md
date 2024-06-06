@@ -101,4 +101,4 @@ A Council can only be called if three Board members are in favor. If a Council i
 By accessing the Repos or the official Discord server henceforth, you agree to be bound by these terms and conditions. If you do not agree to these terms, you are not authorized to access, use, or clone the Repos and/or materials created by employees of Breadom in any way.
 
 **Breadom LLC,**  
-June 5, 2024
+June 6, 2024
